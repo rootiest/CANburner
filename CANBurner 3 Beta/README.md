@@ -53,4 +53,4 @@ The pins will align and connect when you attach the stealthburner front to the e
 
 ## Credits
 
-CANBurner is a collaboration between [Chris Laprade](https://github.com/rootiest/) and [André Bernbrich](https://github.com/Peviox
+CANBurner is a collaboration between [Chris Laprade](https://github.com/rootiest/) and [André Bernbrich](https://github.com/Peviox)
