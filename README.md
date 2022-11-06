@@ -34,3 +34,7 @@ Space can be used more effectively. JST is not as important, the cables can be s
 - added "rootiest"-Logo
 
 ## Rev 3
+- fully changed plug design
+- one 8 pin jst to connect to CAN board
+- 4 pin socket headder to allow for direct I2C connection
+- SMD LED and solder traces to skip LED when its ot used
