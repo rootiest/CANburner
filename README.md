@@ -43,3 +43,7 @@ Space can be used more effectively. JST is not as important, the cables can be s
 - one 8 pin JST-PH to connect to CAN board
 - 4 pin socket header to allow for direct I2C connection
 - SMD LED and solder traces to skip LED when its ot used
+
+## Credits
+
+CANBurner is a collaboration between [Chris Laprade](https://github.com/rootiest/) and [André Bernbrich](https://github.com/Peviox)
