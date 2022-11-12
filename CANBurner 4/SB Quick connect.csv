@@ -1,0 +1,25 @@
+"Source:","C:\Users\André\Desktop\CANBurner 4\SB Quick connect.kicad_sch"
+"Date:","12.11.2022 11:59:20"
+"Tool:","Eeschema (6.0.8)"
+"Generator:","C:\Program Files\KiCad\6.0\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","6"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","HEF1","Conn_01x02","Connector_Generic:Conn_01x02","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~"
+"","","I2C1","Conn_01x02","Connector_Generic:Conn_01x02","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~"
+"","","J1","Conn_02x04_Odd_Even","Connector_Generic:Conn_02x04_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Horizontal","~"
+"","","LED1","Conn_01x03","Connector_Generic:Conn_01x03","Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical","~"
+"","","PCF1","Conn_01x02","Connector_Generic:Conn_01x02","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~"
+"","","R1","R","Device:R","Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal","~"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","3","HEF1, I2C1, PCF1","Conn_01x02","Connector_Generic:Conn_01x02","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical","~"
+"2","1","J1","Conn_02x04_Odd_Even","Connector_Generic:Conn_02x04_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x04_P2.54mm_Horizontal","~"
+"3","1","LED1","Conn_01x03","Connector_Generic:Conn_01x03","Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical","~"
+"4","1","R1","R","Device:R","Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal","~"
