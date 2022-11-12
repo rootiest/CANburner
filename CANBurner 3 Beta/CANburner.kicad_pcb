@@ -6,9 +6,9 @@
 
   (paper "User" 150.012 99.9998)
   (title_block
-    (title "CanBurner")
-    (date "04.11.2022")
-    (rev "2.0")
+    (title "CANBurner")
+    (date "2022-11-04")
+    (rev "3.0")
     (comment 2 "rootiest#5668")
     (comment 3 "André#9313")
     (comment 4 "By:")
