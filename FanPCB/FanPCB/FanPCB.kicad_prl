@@ -61,11 +61,11 @@
       35,
       36
     ],
-    "visible_layers": "fffffd0_7fffffff",
+    "visible_layers": "fffffff_fffffffe",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "CANburner.kicad_prl",
+    "filename": "FanPCB.kicad_prl",
     "version": 3
   },
   "project": {
