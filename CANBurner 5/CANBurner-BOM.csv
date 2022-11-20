@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"I²C";"PinSocket_1x04_P2.54mm_Vertical";1;"i2C Addon";;;
+2;"Status";"LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm";1;"LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm";;;
+3;"Toolboard";"JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal";1;"JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal";;;
+4;"HEF Resistor";"R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal";1;"HEF Resistor";;;
+5;"J1";"PinHeader_2x04_P2.54mm_Horizontal";1;"Conn_02x04_Odd_Even";;;

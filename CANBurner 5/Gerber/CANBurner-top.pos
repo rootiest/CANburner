@@ -1,0 +1,11 @@
+### Module positions - created on Sun Nov 20 15:51:37 2022 ###
+### Printed by Pcbnew version (6.0.7)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref         Val                                      Package                                                  PosX       PosY       Rot  Side
+HEF_Resistor  HEF_Resistor                             R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal    82.8500   -27.9400  180.0000  top
+I²C          i2C_Addon                                PinSocket_1x04_P2.54mm_Vertical                       84.6195   -22.3304  -90.0000  top
+J1            Conn_02x04_Odd_Even                      PinHeader_2x04_P2.54mm_Horizontal                     63.2613   -32.8250    0.0000  top
+Status        LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm        LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm                     81.2800   -39.8568    0.0000  top
+Toolboard     JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal  JST_PH_S8B-PH-K_1x08_P2.00mm_Horizontal               91.5400   -39.4450   90.0000  top
+## End
