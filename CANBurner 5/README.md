@@ -17,7 +17,7 @@
  along with CANburner.  If not, see <http://www.gnu.org/licenses/>.
 -->
 
-# CANBurner 3 Beta
+# CANBurner 5
 
 ## What is it?
 
@@ -25,11 +25,23 @@ CANBurner is an adaptation of hartk's 2-piece StealthBurner PCB.
 
 CANBurner adapts this concept for use on printers with a CANbus toolhead like the BigTreeTech EBB or the Mellow FLY-SHT.
 
-## What is new in the v3 Beta?
+## What is new in v5?
 
-Version 3 introduces a new single-connector interface to the toolboard. There is also a solder-bridge for bypassing the onboard LED and a header for directly-attaching i2c devices.
+Version 5 includes all of the features from previous versions.
+
+In addition, v5:
+
+- Fixes an issue with the status LED placement/rotation. It should now be compatible with most common neopixel chips of the appropriate size
+  
+- Cleans up some trace and mask positioning for better fabrication results
+
+- Adds clearer silkscreen labeling for the LED and Resistor (and accompanying bypasses)
+
+- Re-introduces curvy traces!
 
 ![3D Top View](resources/3D-top.png)
+
+![3D Top No Components](resources/3D-top_no-components.png)
 
 ![3D Bottom View](resources/3D-bottom.png)
 
