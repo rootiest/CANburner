@@ -59,6 +59,10 @@ Its purpose is to act as a "quick-connect" bridge that allows you to remove the 
 
 The pins will align and connect when you attach the stealthburner front to the extruder.
 
+![CANBurner v5 pcb](resources/pcb-v5-soldered.jpg)
+
+The images below show an older version but the installation is the same:
+
 ![CANBurner on toolhead](resources/board-on-toolhead.jpg)
 
 ![CANBurner quick-connect pins](resources/connector-on-toolhead.jpg)
